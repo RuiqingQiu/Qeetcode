@@ -24,9 +24,9 @@ Qeetcode is an atom package that gives developers the ability to retrieve coding
 - Certain examples with test cases will automatically be populated for testing
 - Obtain code solutions straight from the Leetcode community
 
-## Screenshots
+<!-- ## Screenshots
 
-![Leetcode](http://richarddang.com/images/portfolio/atom-leetcode.gif)
+![Leetcode](http://richarddang.com/images/portfolio/atom-leetcode.gif) -->
 
 
 ## Future Updates
