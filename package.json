@@ -1,18 +1,25 @@
 {
-  "name": "qeetcode",
+  "name": "Qeetcode",
   "main": "./lib/qeetcode",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Qeetcode practice algorithms without leaving atom",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "qeetcode:fetch"
+    "atom-workspace": [
+            "qeetcode:fetch",
+            "qeetcode:search"
+        ]
   },
-  "repository": "https://github.com/atom/qeetcode",
+  "repository": "https://github.com/RuiqingQiu/Qeetcode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "async": "^2.6.1",
+    "atom-select-list": "^0.7.2",
+    "cheerio": "^1.0.0-rc.2",
+    "fuzzaldrin": "^2.1.0",
     "request": "^2.73.0"
   }
 }

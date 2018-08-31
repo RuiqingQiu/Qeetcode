@@ -1,0 +1,7 @@
+{
+  "githubURL": {
+    "description": "The github URL to get the leetcode templates from",
+    "type": "string",
+    "default": "https://raw.githubusercontent.com/RuiqingQiu/Leetcode/master/leetcode-algorithms/"
+  }
+}

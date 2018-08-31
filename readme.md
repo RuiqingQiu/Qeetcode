@@ -12,7 +12,7 @@
 Qeetcode is an atom package that gives developers the ability to retrieve coding templates and questions for leetcode problems straight into their editor. The goal is to have a quick way of review previous solutions and have the template to start solving it without going to the browser and lookup questions.
 
 
-[Change Log](https://github.com/RuiqingQiu/Qeetcode/blob/master/CHANGELOG.md)
+[Change Log](https://github.com/RuiqingQiu/Qeetcode/blob/master/ChangeLog.md)
 
 
 ## Features

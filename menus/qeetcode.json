@@ -12,11 +12,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "qeetcode",
+          "label": "Qeetcode",
           "submenu": [
             {
               "label": "Fetch",
               "command": "qeetcode:fetch"
+            },
+            {
+              "label": "Search",
+              "command": "qeetcode:search"
             }
           ]
         }
