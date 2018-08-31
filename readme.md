@@ -36,5 +36,3 @@ Qeetcode is an atom package that gives developers the ability to retrieve coding
 - Support offline for problems and solutions
 
 ## Credits
-
-[@AkibShahjahan](https://github.com/AkibShahjahan)
