@@ -21,5 +21,8 @@
     "cheerio": "^1.0.0-rc.2",
     "fuzzaldrin": "^2.1.0",
     "request": "^2.73.0"
-  }
+},
+"scripts": {
+  "changelog": "auto-changelog --package --template compact; git add CHANGELOG.md"
+}
 }
